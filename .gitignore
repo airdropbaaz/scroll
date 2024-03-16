@@ -12,7 +12,7 @@ coverage.txt
 .vscode
 
 # IntelliJ
-.idea
+.no idea
 
 # MacOS
 .DS_Store
